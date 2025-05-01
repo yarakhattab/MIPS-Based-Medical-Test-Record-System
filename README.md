@@ -23,7 +23,7 @@ This repository showcases my implementation of Project #1 for the Computer Archi
 ## 🚀 Getting Started  
 To run the system:  
 1. Clone the repository
-2. Open `MedicalTest.asm` using the [MARS MIPS simulator](http://courses.missouristate.edu/kenvollmar/mars/)  
+2. Open `code.asm` using the [MARS MIPS simulator](http://courses.missouristate.edu/kenvollmar/mars/)  
 3. Run the program and navigate using the text-based interface  
 4. Input test data and explore the available operations (search, update, compute, etc.)  
 5. Use provided test cases to verify correct functionality  
